@@ -13,7 +13,7 @@
       
 
 
-**Step 3**: Extract the file and open it<br> <br>
+**Step 3**: Extract the folder and open it<br> <br>
 **Last Step**: Run the `Assistant.exe` as Administrator and enjoy:)
 
 # So test it and tell me your experienced
